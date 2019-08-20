@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{A6LB:function(n,e){document.createElement("div").innerHTML="hello world2222222"}},[["A6LB",0]]]);
